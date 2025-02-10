@@ -33,6 +33,3 @@ I'm deeply passionate about technology, startups, and machine learning—especia
 📍 Always open to discussing AI, startups, and groundbreaking ideas!
 
 ---
-
-Los geht's🚀
-
