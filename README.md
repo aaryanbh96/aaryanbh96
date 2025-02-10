@@ -34,5 +34,5 @@ I'm deeply passionate about technology, startups, and machine learning—especia
 
 ---
 
-🚀
+Los geht's🚀
 
