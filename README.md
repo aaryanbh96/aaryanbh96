@@ -15,9 +15,7 @@ I'm deeply passionate about technology, startups, and machine learning—especia
 
 ## 💻 What I'm Working On
 - **Deepfake Detection** 🔍 (TensorFlow, OpenCV, Python) - Training CNNs to detect manipulated media.
-- **Stock Market Prediction Using Sentiment Analysis** 📈 (Python, R, Postgres) - Leveraging NLP and machine learning for financial forecasting.
-- **Churn Analysis on Large-Scale Data** 📊 (R, Tableau, SQL) - Predicting user behavior with 60M+ rows of data.
-
+  
 ---
 
 ## 🛠️ Tech Stack
