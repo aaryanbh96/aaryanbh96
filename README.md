@@ -2,7 +2,7 @@
 
 🚀 **Relentless. Dedicated. Always Building.**
 
-I'm deeply passionate about technology, startups, and machine learning—especially in the realm of **computer vision**. Whether it's developing deep learning models, analyzing large datasets, or optimizing business strategies with data-driven insights, I'm always pushing the boundaries of what's possible.
+I'm passionate about technology, startups, and machine learning—especially **computer vision**. Whether it's developing deep learning models, analyzing large datasets, or optimizing business strategies with data-driven insights, I try to push the boundaries.
 
 ---
 
