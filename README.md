@@ -17,7 +17,7 @@ I'm passionate about technology, startups, and machine learning—especially **c
   
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 - **Languages:** Python, R, SQL (Postgres)
 - **ML/DL Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
 - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Polars
