@@ -1,24 +1,23 @@
-# Hi, I'm Aryan Bhardwaj 👋
+# Hi, I'm Aryan Bhardwaj
 
-🚀 **Relentless. Dedicated. Always Building.**
 
 I'm passionate about technology, startups, and machine learning—especially **computer vision**. Whether it's developing deep learning models, analyzing large datasets, or optimizing business strategies with data-driven insights, I try to push the boundaries.
 
 ---
 
-## 🔥 What Drives Me
+## What Drives Me
 - **Machine Learning & AI:** Building intelligent solutions, with a strong focus on **deep learning** and **computer vision**.
 - **Startups & Innovation:** Always thinking about ways to apply AI to real-world problems and scale impactful solutions.
 - **Data-Driven Decision Making:** From analyzing social media sentiment for stock predictions to detecting deepfakes, I thrive at the intersection of data and strategy.
 
 ---
 
-## 💻 What I'm Working On
+## What I'm Working On
 - **Deepfake Detection** 🔍 (TensorFlow, OpenCV, Python) - Training CNNs to detect manipulated media.
   
 ---
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 - **Languages:** Python, R, SQL (Postgres)
 - **ML/DL Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
 - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Polars
