@@ -1,7 +1,7 @@
 # Aryan Bhardwaj
 
-Data Science & Systems | Founder's Associate @ The Tao of Tea  
-Portland, OR → San Francisco
+Data Science, Growth & Systems 
+
 
 ---
 
