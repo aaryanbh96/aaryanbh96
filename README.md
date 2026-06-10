@@ -11,8 +11,8 @@ I build operational software that solves real problems.
 **What I've shipped:**
 - 🏭 Incoming Shipment Label Generator — Tauri/Rust/React, deployed to warehouse thermal printer
 - 📦 Product Case Label Printer — reduced wrong shipments to near zero  
-- 📋 Packing Slip Generator — eliminated manual iHerb order processing
-- 📊 Amazon/iHerb PO Aggregator — cross-channel demand planning tool
+- 📋 Packing Slip Generator — eliminated manual order processing
+- 📊 PO Aggregator — cross-channel demand planning tool
 
 **How I think:**  
 Systems first. Feedback loops, second order effects, operational leverage.  
