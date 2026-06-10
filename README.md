@@ -1,35 +1,27 @@
-# Hi, I'm Aryan Bhardwaj
+# Aryan Bhardwaj
 
-
-I'm passionate about technology, startups, and machine learning—especially **computer vision**. Whether it's developing deep learning models, analyzing large datasets, or optimizing business strategies with data-driven insights, I try to push the boundaries.
-
----
-
-## What Drives Me
-- **Machine Learning & AI:** Building intelligent solutions, with a strong focus on **deep learning** and **computer vision**.
-- **Startups & Innovation:** Always thinking about ways to apply AI to real-world problems and scale impactful solutions.
-- **Data-Driven Decision Making:** From analyzing social media sentiment for stock predictions to detecting deepfakes, I thrive at the intersection of data and strategy.
+Data Science & Systems | Founder's Associate @ The Tao of Tea  
+Portland, OR → San Francisco
 
 ---
 
-## What I'm Working On
-- **Deepfake Detection** 🔍 (TensorFlow, OpenCV, Python) - Training CNNs to detect manipulated media.
-  
----
+I build operational software that solves real problems.  
+4 production apps deployed. All self-initiated. All in use.
 
-## Tech Stack
-- **Languages:** Python, R, SQL (Postgres)
-- **ML/DL Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
-- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Polars
-- **Cloud & DevOps:** Docker, GCP, Git
-- **Visualization:** Tableau, Excel, Jupyter Notebook, Google Colab
+**What I've shipped:**
+- 🏭 Incoming Shipment Label Generator — Tauri/Rust/React, deployed to warehouse thermal printer
+- 📦 Product Case Label Printer — reduced wrong shipments to near zero  
+- 📋 Packing Slip Generator — eliminated manual iHerb order processing
+- 📊 Amazon/iHerb PO Aggregator — cross-channel demand planning tool
 
----
+**How I think:**  
+Systems first. Feedback loops, second order effects, operational leverage.  
+MBA + MS Data Science. System dynamics. Building toward PhD in decision systems.
 
-## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanbh96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryanb/)
-
-📍 Always open to discussing AI, startups, and groundbreaking ideas!
+**Stack:**  
+Rust · TypeScript · React · Tauri · Python · SQL  
+Pandas · Scikit-learn · XGBoost · Git · Docker
 
 ---
+
+[rearyan.com](https://rearyan.com) · [LinkedIn](https://linkedin.com/in/aaryanb)
