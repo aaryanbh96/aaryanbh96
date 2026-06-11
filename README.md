@@ -16,8 +16,7 @@ I build operational software that solves real problems.
 
 **How I think:**  
 Systems first. Feedback loops, second order effects, operational leverage.  
-MBA + MS Data Science. System dynamics. Building toward PhD in decision systems.
-
+MBA + MS Data Science. System dynamics.
 **Stack:**  
 Rust · TypeScript · React · Tauri · Python · SQL  
 Pandas · Scikit-learn · XGBoost · Git · Docker
